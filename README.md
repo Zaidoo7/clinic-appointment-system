@@ -3,11 +3,11 @@
 **Chosen SDG:** SDG 3 – Good Health and Well-Being  
 
 ## Team Members
-- Zaid – Product Owner / Documentation  
-- [Name] – Scrum Master / Planning  
-- [Name] – Developer (Frontend)  
-- [Name] – Developer (Backend)  
-- [Name] – Designer / Testing  
+- Zaid Sha'belo – Product Owner / Documentation  
+- Zayed Zaki – Scrum Master / Planning  
+- YOusef Sameh – Developer (Frontend)  
+- Yang Lu – Developer (Backend)  
+- Azzam Wani – Designer / Testing  
 
 ## Project Description
 This project aims to improve healthcare access for university students by developing a prototype appointment booking system. The system allows students to view available slots, book appointments, and receive reminders, while clinic staff can manage schedules more efficiently.  
