@@ -5,8 +5,8 @@
 ## Team Members
 - Zaid Sha'belo – Product Owner / Documentation  
 - Zayed Zaki – Scrum Master / Planning  
-- YOusef Sameh – Developer (Frontend)  
-- Yang Lu – Developer (Backend)  
+- Yousef Sameh – Developer
+- Yang Luying – Developer
 - Azzam Wani – Designer / Testing  
 
 ## Project Description
