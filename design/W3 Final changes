@@ -1,0 +1,16 @@
+Add a Student, Doctor, and Admin interface to the website
+
+Add features to the Student portal homepage including:
+- Upcoming appointments
+- Booking history
+- Veiw doctor schedules and duty time
+- Show health metrics/Health report about the patient.
+
+Add features to the Doctor portal homepage including:
+- Veiwing own schedule
+- Show patients that booked sessions (completed, remaining, and total)
+- Document consultation notes for the patient
+
+Add features to the Admin portal homepage including:
+- Veiwing registered accounts
+- Manage registered accounts (edit, add, and delete accounts)
